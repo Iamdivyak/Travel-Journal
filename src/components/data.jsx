@@ -1,3 +1,5 @@
+
+
 export default [
     {
         title: "Mount Fuji",
@@ -9,7 +11,7 @@ export default [
         imageUrl: "mountfuji.png"
     },
     {
-        title: "Mount Fuji",
+        title: "Sydney Opera House",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "12 Jan, 2021",
@@ -18,7 +20,7 @@ export default [
         imageUrl: "giarang.png"
     },
     {
-        title: "Mount Fuji",
+        title: "Giarang",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "12 Jan, 2021",

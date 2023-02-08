@@ -2,7 +2,7 @@ import React from 'react'
 import './App.css'
 import Navbar from "./components/Navbar"
 import Main from './components/Main'
-import data from "./components/data"
+import data from "./components/data.jsx"
 
 
 

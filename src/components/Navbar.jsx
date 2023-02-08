@@ -1,8 +1,7 @@
-import logo from "../../assets/logo.png"
-
+// import logo from "../assets/logo.png"
 function Navbar() {
   return <nav>
-    <img src={logo} alt="" />
+    <img src="assets/logo.png" alt="" />
     <p>My Travel Journal.</p>
 
   </nav>;
